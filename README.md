@@ -1,14 +1,15 @@
 # Capstone
-https://media.istockphoto.com/id/1390096829/photo/environment-engineer-collect-samples-of-wastewater-from-industrial-canals-in-test-tube-close.jpg
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fcontaminated-water&psig=AOvVaw0Wcjet0v7sov-g33ari-fS&ust=1744653284558000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC254_K1YwDFQAAAAAdAAAAABAE)
 
 ##Description of 
 ## Section Heading
 
-Home
-Project Overview
-EDA
-Group Info
-Predictions
+## Table of contents
+* [1. Project Overview]
+* [2. Dataset]
+* [3. Packages]
+* [4. Environment]
+* [5. Team Members]
 
 ## Imports used
 import streamlit as st
