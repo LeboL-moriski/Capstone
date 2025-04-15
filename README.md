@@ -1,5 +1,5 @@
 # Capstone
-![]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fcontaminated-water&psig=AOvVaw0Wcjet0v7sov-g33ari-fS&ust=1744653284558000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC254_K1YwDFQAAAAAdAAAAABAE](https://media.assettype.com/outlookindia/import/uploadimage/library/16_9/16_9_5/IMAGE_1672458373.webp?w=640&auto=format%2Ccompress&fit=max&format=webp&dpr=1.0))
+![](https://etrlabs.com/wp-content/uploads/2019/11/Environmental-Testing_Water-Contamination-and-Its-Effect-on-Immune-Systems_IMAGE1.jpeg)
 * **Purpose:**
 The purpose of this project is to analyze the physico-chemical parameters of a polluted river located in Buenos Aires, with a focus on identifying trends, correlations, and potential health or environmental risks.The goal for this project  is to predict the DO (which is the dissolved oxygen levels) parameter of the river based on the features collected in the dataset
   
